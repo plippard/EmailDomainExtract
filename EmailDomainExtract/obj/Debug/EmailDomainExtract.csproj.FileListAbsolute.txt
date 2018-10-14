@@ -1,0 +1,6 @@
+C:\Projects\Support-Projects\EmailFiltering\EmailDomainExtract\EmailDomainExtract\bin\Debug\EmailDomainExtract.exe.config
+C:\Projects\Support-Projects\EmailFiltering\EmailDomainExtract\EmailDomainExtract\bin\Debug\EmailDomainExtract.exe
+C:\Projects\Support-Projects\EmailFiltering\EmailDomainExtract\EmailDomainExtract\bin\Debug\EmailDomainExtract.pdb
+C:\Projects\Support-Projects\EmailFiltering\EmailDomainExtract\EmailDomainExtract\obj\Debug\EmailDomainExtract.csprojResolveAssemblyReference.cache
+C:\Projects\Support-Projects\EmailFiltering\EmailDomainExtract\EmailDomainExtract\obj\Debug\EmailDomainExtract.exe
+C:\Projects\Support-Projects\EmailFiltering\EmailDomainExtract\EmailDomainExtract\obj\Debug\EmailDomainExtract.pdb
